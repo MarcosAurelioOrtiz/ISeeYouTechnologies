@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.containerHeader{
+  height: 85px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logoTest{
+  color: #FF006E;
+  margin-left: 70px;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.iniciarSesion{
+  text-decoration: none;
+  margin-right: 70px;
+  color: black;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #878C91;
+  height: 489px;
+}
+
+
+.titulo{
+  font-size: 35px;
+  font-weight: 400;
+  color: white;
+  margin-bottom: 30px;
+}
+
+.btnSolicitar{
+  font-family: 'Poppins';
+  height: 45px;
+  width: 110px;
+  border-radius: 50px;
+  background-color: #FF006E;
+  color: white;
+  font-size: 15px;
+  border: none;
+  margin-bottom: 30px;
+}
+
+.btnSolicitar:hover{
+  background-color: #D1005C;
+}
+
+.texto{
+  color: white;
+  font-size: 20px;
+  margin-bottom: 0.5px;
+}
+
+.txtSpan{
+  font-weight: 600;
+  font-size: 22px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  padding: 85px 0;
+}
+
