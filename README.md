@@ -1,3 +1,7 @@
+# Requerimientos
+
+- Node v20
+
 # Instalación de servidor
 
 Directorio de trabajo:
